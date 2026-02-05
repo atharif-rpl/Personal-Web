@@ -10,29 +10,29 @@ const experiences = [
     title: "International Teaching At SIDH Netherlands",
     company: "SIDH Netherlands",
     period: "2025 - Present",
-    desc: "Membangun web profile menggunakan Next.js dan Supabase sebagai studi kasus pengembangan perangkat lunak.",
+    desc: "Mengajar coding dan pengembangan web kepada siswa internasional.",
     points: ["Integrasi Database Supabase", "Manajemen konten komunitas", "Optimasi performa web"],
     images: [
-      "/images/dokumentasi/netherland2.JPG", 
-      "/images/dokumentasi/netherland1.JPG", 
-      "/images/dokumentasi/netherland3.JPG", 
+      "/images/dokumentasi/netherland2.webp", 
+      "/images/dokumentasi/netherland1.webp", 
+      "/images/dokumentasi/netherland3.webp", 
    
     ],
-    details: "Sebagai bagian dari proyek studi kasus, saya mengembangkan Ourtala Community dari nol, fokus pada backend dengan Supabase dan frontend responsif menggunakan Next.js. Proyek ini mengajarkan saya tentang manajemen proyek, kolaborasi tim, dan tantangan teknis dalam skala kecil."
+    details: "Alhamdulillah saya berkesempatan untuk mengajar coding di kancah internasional lebih spesifik nya di negara belanda, disana saya mengajarkan tentang web development kepada siswa-siswi internasional. Materi yang saya ajarkan meliputi Tailwind Css, manajemen konten organisasi, serta optimasi performa web untuk pengalaman pengguna yang lebih baik."
   },
   {
     title: "Live In program at IDN Boarding School",
     company: "IDN Boarding School",
     period: "2024 - Present",
-    desc: "Fokus pada pengembangan aplikasi web dan mobile sebagai siswa kelas 11.",
+    desc: "Mengikuti proggram sekolah Live In dengan fokus untuk mengembangkan kemandirian dan membantu warga di wilayah sekitar cianjur",
     points: ["Spesialisasi Next.js & Prisma", "Pengembangan aplikasi Flutter", "Project Manager tugas kelompok"],
     images: [
-      "/images/dokumentasi/livein2.jpg",
-      "/images/dokumentasi/livein1.JPG",
-      "/images/dokumentasi/livein3.JPG",
+      "/images/dokumentasi/livein2.webp",
+      "/images/dokumentasi/livein1.webp",
+      "/images/dokumentasi/livein3.webp",
      
     ],
-    details: "Di IDN Boarding School, saya mendalami kurikulum Software Engineering yang komprehensif, dengan fokus pada Next.js, Prisma, dan Supabase. Selain itu, saya juga aktif sebagai project manager untuk tugas-tugas kelompok, mengasah kemampuan kepemimpinan dan kolaborasi."
+    details: "Selain mempelajari ilmu teknologi, saya juga mengikuti program Live In di IDN Boarding School. Program ini bertujuan untuk mengembangkan kemandirian siswa dengan cara tinggal bersama masyarakat sekitar, khususnya di wilayah Cianjur. Selama program ini, saya belajar banyak tentang kehidupan bermasyarakat, berkontribusi dalam kegiatan sosial, serta memahami nilai-nilai kebersamaan dan gotong royong."
   },
   {
     title: "Ourtala Organization Website Development",
@@ -41,9 +41,9 @@ const experiences = [
     desc: "Membangun Platform Digital Terpusat untuk Ekspansi dan Visibilitas Organisasi Ourtala.",
     points: ["Penyusunan solusi digital", "Presentasi strategi komunitas", "Koordinasi tim lapangan"],
     images: [
-      "/images/dokumentasi/galeryabout3.jpg",
-      "/images/dokumentasi/galeryabout6.jpg",
-      "/images/dokumentasi/galeryabout7.jpg",
+      "/images/dokumentasi/galeryabout3.webp",
+      "/images/dokumentasi/galeryabout6.webp",
+      "/images/dokumentasi/galeryabout7.webp",
       
     ],
     details: "Sebagai Web Developer, saya bertanggung jawab penuh dalam mentransformasi visi Ourtala ke dalam bentuk digital. Saya merancang arsitektur website, mengembangkan fitur-fitur utama, dan memastikan platform ini siap digunakan sebagai media informasi serta interaksi publik. Fokus saya adalah menciptakan sistem yang stabil dan responsif guna mendukung pertumbuhan organisasi dalam skala yang lebih luas."
@@ -52,15 +52,15 @@ const experiences = [
     title: "Assistant Software Engineer division at PT JAS (Automotive Assembly Facility Project)",
     company: "PT.Jas",
     period: "2025",
-    desc: "Menulis artikel naratif tentang kegiatan outdoor seperti rappelling di Klapanunggal.",
+    desc: "Menjadi asisten divisi Software Engineer dalam proyek pembuatan fasilitas perakitan otomotif.",
     points: ["Penulisan konten naratif", "Dokumentasi kegiatan", "Publikasi artikel interaktif"],
     images: [
-      "/images/dokumentasi/jas1.jpg",
-      "/images/dokumentasi/jas2.jpg",
-      "/images/dokumentasi/jas3.jpg",
+      "/images/dokumentasi/jas1.webp",
+      "/images/dokumentasi/jas2.webp",
+      "/images/dokumentasi/jas3.webp",
 
     ],
-    details: "Menyertai tim Petualang Muslim, saya mendokumentasikan dan menulis pengalaman petualangan, khususnya rappelling. Ini bukan hanya tentang penulisan, tetapi juga tentang menangkap esensi petualangan melalui fotografi dan menyajikannya dalam narasi yang menarik."
+    details: "Dalam peran saya sebagai asisten di divisi Software Engineer di PT JAS, saya berkontribusi dalam proyek pembuatan fasilitas perakitan otomotif. Tugas saya meliputi membantu pengembangan perangkat lunak yang digunakan dalam proses perakitan, serta memastikan integrasi sistem berjalan lancar. Pengalaman ini memberikan wawasan berharga tentang industri otomotif dan teknologi manufaktur."
   }
 ];
 

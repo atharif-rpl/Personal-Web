@@ -11,7 +11,7 @@ const allCertificates = [
     issuer: "Coursera / Meta",
     category: "Web",
     date: "2025",
-    image: "/images/certificate/certiskilvul.png", 
+    image: "/images/certificate/certiskilvul.webp", 
     desc: "Validasi keahlian dalam Next.js, Prisma, dan Supabase.",
     skills: ["Next.js", "Prisma", "Supabase"]
   },
@@ -20,7 +20,7 @@ const allCertificates = [
     issuer: "Google / Flutter",
     category: "Web",
     date: "2026",
-    image: "/images/certificate/certidicoding.png", 
+    image: "/images/certificate/certidicoding.webp", 
     desc: "Kompetensi dalam membangun aplikasi mobile lintas platform.",
     skills: ["Flutter", "Dart", "QR Scanning"]
   },
@@ -29,7 +29,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Web",
     date: "2025",
-    image: "/images/certificate/certisitefest.png", 
+    image: "/images/certificate/certisitefest.webp", 
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -38,7 +38,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certiposn.png",
+    image: "/images/certificate/certiposn.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -47,7 +47,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Web",
     date: "2025",
-    image: "/images/certificate/certiundayana.png",
+    image: "/images/certificate/certiundayana.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -56,7 +56,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certibelanda.jpeg",
+    image: "/images/certificate/certibelanda.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -65,7 +65,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certiourtala.png",
+    image: "/images/certificate/certiourtala.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -74,7 +74,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certidicoding2.png",
+    image: "/images/certificate/certidicoding2.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -83,7 +83,7 @@ const allCertificates = [
     issuer: "MongoDB University",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certikodio.png",
+    image: "/images/certificate/certikodio.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
@@ -92,7 +92,7 @@ const allCertificates = [
     issuer: "Others",
     category: "Others",
     date: "2025",
-    image: "/images/certificate/certikodio1.png",
+    image: "/images/certificate/certikodio1.webp",
     desc: "Penguasaan manajemen data dan skema database relasional.",
     skills: ["PostgreSQL", "Data Modeling"]
   },
