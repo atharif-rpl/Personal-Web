@@ -37,9 +37,8 @@ const Intro = () => {
     }
   };
 
-  // Kata-kata pembuka yang informatif
   const words = [
-    "Hello",
+    "你好",
     "I am Atharif",
     "Software Engineering Student",
     "IDN Boarding School",
